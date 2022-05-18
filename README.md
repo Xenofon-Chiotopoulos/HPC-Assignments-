@@ -6,3 +6,5 @@ a collection of HPC assignments from UCL techniques of high preformance computin
 
 This assingment benchmarks run times for the matrix product constructed in different ways.
 Taking advantage of the numba library and JIT compilation the following reults are obtained
+
+![Getting Started](HPC1img.png)
